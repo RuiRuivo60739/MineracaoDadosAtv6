@@ -1,0 +1,44 @@
+\begin{thebibliography}{1}
+
+\bibitem{dataset}
+https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci
+\newblock
+
+\bibitem{eurostat}
+https://ec.europa.eu/eurostat/statistics-explained/index.php?title=E-commerce_statistics_for_individuals
+\newblock (Acedido em 05/12/2024).
+
+\bibitem{SGEM2008}
+Application of Machine Learning for Churn Prediction Based on Transactional Data (RFM Analysis).
+Assist. Proff. Dr. Yanka Aleksandrova.
+University of Economics - Varna, Bulgaria.
+\newblock (Página 2 de 8)
+
+\bibitem{weka}
+http://www.cs.waikato.ac.nz/~ml/weka/
+\newblock
+
+\bibitem{dataset2}
+https://archive.ics.uci.edu/dataset/352/online+retail
+\newblock
+
+\bibitem{RFMSDM2004}
+Visualizing RFM Segmentation.
+Ron Kohavi (Stanford University) and Rajesh Parekh (Iowa State University).
+\newblock (Acedido em 07/12/2024)
+
+\bibitem{RCCAFRM}
+Retail Customer Churn Analysis using RFM.
+Nikita Bagul, Prerana Berad, Prof. Priya Surana, Chirag Khachane.
+Department of Computer Engineering, Pimpri Chinchwad College of Engineering, Pune, India.
+\newblock (Acedido em 07/12/2024)
+
+\bibitem{pythonRFM}
+https://github.com/RuiRuivo60739/MineracaoDadosAtv6/blob/main/Utilities/converteDataECalculaRFM.py
+\newblock
+
+\bibitem{ficheiros}
+https://github.com/RuiRuivo60739/MineracaoDadosAtv6
+\newblock
+
+\end{thebibliography}
