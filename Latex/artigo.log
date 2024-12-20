@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.5)  20 DEC 2024 15:10
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.5)  20 DEC 2024 15:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -765,59 +765,59 @@ File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 
 {c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2024/
 texmf-dist/fonts/enc/dvips/base/8r.enc}] [2] [3]
-<imagens/figure1.jpg, id=106, 425.33907pt x 557.08125pt>
+<imagens/figure1.jpg, id=104, 425.33907pt x 557.08125pt>
 File: imagens/figure1.jpg Graphic file (type jpg)
 <use imagens/figure1.jpg>
 Package pdftex.def Info: imagens/figure1.jpg  used on input line 125.
 (pdftex.def)             Requested size: 250.38562pt x 327.94406pt.
  [4 <./imagens/figure1.jpg>]
-<imagens/figure2.jpg, id=115, 755.82375pt x 566.86781pt>
+<imagens/figure2.jpg, id=113, 755.82375pt x 566.86781pt>
 File: imagens/figure2.jpg Graphic file (type jpg)
 <use imagens/figure2.jpg>
 Package pdftex.def Info: imagens/figure2.jpg  used on input line 150.
 (pdftex.def)             Requested size: 455.24408pt x 341.42941pt.
  [5 <./imagens/figure2.jpg>]
-<imagens/figure3.jpg, id=124, 755.07094pt x 569.12625pt>
+<imagens/figure3.jpg, id=122, 755.07094pt x 569.12625pt>
 File: imagens/figure3.jpg Graphic file (type jpg)
 <use imagens/figure3.jpg>
 Package pdftex.def Info: imagens/figure3.jpg  used on input line 161.
 (pdftex.def)             Requested size: 455.24408pt x 343.13705pt.
-<imagens/figure4.jpg, id=125, 755.82375pt x 570.63188pt>
+<imagens/figure4.jpg, id=123, 755.82375pt x 570.63188pt>
 File: imagens/figure4.jpg Graphic file (type jpg)
 <use imagens/figure4.jpg>
 Package pdftex.def Info: imagens/figure4.jpg  used on input line 172.
 (pdftex.def)             Requested size: 455.24408pt x 343.69655pt.
  [6 <./imagens/figure3.jpg>]
-<imagens/figure5.jpg, id=131, 755.07094pt x 569.12625pt>
+<imagens/figure5.jpg, id=129, 755.07094pt x 569.12625pt>
 File: imagens/figure5.jpg Graphic file (type jpg)
 <use imagens/figure5.jpg>
 Package pdftex.def Info: imagens/figure5.jpg  used on input line 184.
 (pdftex.def)             Requested size: 455.24408pt x 343.13705pt.
  [7 <./imagens/figure4.jpg>] [8 <./imagens/figure5.jpg>]
-<imagens/figure6.jpg, id=143, 813.0375pt x 229.60782pt>
+<imagens/figure6.jpg, id=141, 813.0375pt x 229.60782pt>
 File: imagens/figure6.jpg Graphic file (type jpg)
 <use imagens/figure6.jpg>
 Package pdftex.def Info: imagens/figure6.jpg  used on input line 205.
 (pdftex.def)             Requested size: 455.24408pt x 128.56198pt.
  [9 <./imagens/figure6.jpg>]
-<imagens/figure12.jpg, id=153, 363.60844pt x 243.15843pt>
+<imagens/figure12.jpg, id=151, 363.60844pt x 243.15843pt>
 File: imagens/figure12.jpg Graphic file (type jpg)
 <use imagens/figure12.jpg>
 Package pdftex.def Info: imagens/figure12.jpg  used on input line 230.
 (pdftex.def)             Requested size: 227.62204pt x 152.22223pt.
-<imagens/figure13.jpg, id=154, 361.35pt x 238.64156pt>
+<imagens/figure13.jpg, id=152, 361.35pt x 238.64156pt>
 File: imagens/figure13.jpg Graphic file (type jpg)
 <use imagens/figure13.jpg>
 Package pdftex.def Info: imagens/figure13.jpg  used on input line 238.
 (pdftex.def)             Requested size: 227.62204pt x 150.32675pt.
-<imagens/figure14.jpg, id=155, 360.59718pt x 241.65282pt>
+<imagens/figure14.jpg, id=153, 360.59718pt x 241.65282pt>
 File: imagens/figure14.jpg Graphic file (type jpg)
 <use imagens/figure14.jpg>
 Package pdftex.def Info: imagens/figure14.jpg  used on input line 246.
 (pdftex.def)             Requested size: 227.62204pt x 152.54074pt.
  [10 <./imagens/figure12.jpg> <./imagens/figure13.jpg> <./imagens/figure14.jpg>
 ]
-<imagens/figure7.jpg, id=165, 758.08218pt x 569.87906pt>
+<imagens/figure7.jpg, id=163, 758.08218pt x 569.87906pt>
 File: imagens/figure7.jpg Graphic file (type jpg)
 <use imagens/figure7.jpg>
 Package pdftex.def Info: imagens/figure7.jpg  used on input line 256.
@@ -836,7 +836,7 @@ Overfull \hbox (2.6356pt too wide) in paragraph at lines 271--272
 l da discretiza[][]ao: 
  []
 
-<imagens/figure8.jpg, id=176, 552.56438pt x 210.03468pt>
+<imagens/figure8.jpg, id=174, 552.56438pt x 210.03468pt>
 File: imagens/figure8.jpg Graphic file (type jpg)
 <use imagens/figure8.jpg>
 Package pdftex.def Info: imagens/figure8.jpg  used on input line 275.
@@ -846,24 +846,24 @@ LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 2
 (c:/texlive/2024/texmf-dist/tex/latex/psnfss/ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 ) [12 <./imagens/figure8.jpg>]
-<imagens/figure9.jpg, id=183, 756.57657pt x 571.38469pt>
+<imagens/figure9.jpg, id=181, 756.57657pt x 571.38469pt>
 File: imagens/figure9.jpg Graphic file (type jpg)
 <use imagens/figure9.jpg>
 Package pdftex.def Info: imagens/figure9.jpg  used on input line 322.
 (pdftex.def)             Requested size: 386.96024pt x 292.23932pt.
-<imagens/figure10.jpg, id=184, 755.07094pt x 565.36218pt>
+<imagens/figure10.jpg, id=182, 755.07094pt x 565.36218pt>
 File: imagens/figure10.jpg Graphic file (type jpg)
 <use imagens/figure10.jpg>
 Package pdftex.def Info: imagens/figure10.jpg  used on input line 330.
 (pdftex.def)             Requested size: 386.96024pt x 289.73705pt.
  [13 <./imagens/figure9.jpg>]
-<imagens/figure11.jpg, id=193, 753.5653pt x 567.62062pt>
+<imagens/figure11.jpg, id=191, 753.5653pt x 567.62062pt>
 File: imagens/figure11.jpg Graphic file (type jpg)
 <use imagens/figure11.jpg>
 Package pdftex.def Info: imagens/figure11.jpg  used on input line 338.
 (pdftex.def)             Requested size: 386.96024pt x 291.47475pt.
  [14 <./imagens/figure10.jpg> <./imagens/figure11.jpg>]
-<imagens/figure15.jpg, id=200, 296.60812pt x 153.57375pt>
+<imagens/figure15.jpg, id=198, 296.60812pt x 153.57375pt>
 File: imagens/figure15.jpg Graphic file (type jpg)
 <use imagens/figure15.jpg>
 Package pdftex.def Info: imagens/figure15.jpg  used on input line 348.
@@ -875,24 +875,24 @@ ptm/m/n/10.95 , os nos-sos atri-bu-tos j[]a ser[]ao in-ter-pre-ta-dos como atri
 -bu-tos num[]ericos.
  []
 
-<imagens/figure16.jpg, id=202, 548.595pt x 308.133pt>
+<imagens/figure16.jpg, id=200, 548.595pt x 308.133pt>
 File: imagens/figure16.jpg Graphic file (type jpg)
 <use imagens/figure16.jpg>
 Package pdftex.def Info: imagens/figure16.jpg  used on input line 377.
 (pdftex.def)             Requested size: 455.24408pt x 255.71269pt.
 [15 <./imagens/figure15.jpg>] [16 <./imagens/figure16.jpg>]
-<imagens/figure17.jpg, id=218, 756.57657pt x 567.62062pt>
+<imagens/figure17.jpg, id=216, 756.57657pt x 567.62062pt>
 File: imagens/figure17.jpg Graphic file (type jpg)
 <use imagens/figure17.jpg>
 Package pdftex.def Info: imagens/figure17.jpg  used on input line 415.
 (pdftex.def)             Requested size: 455.24408pt x 341.54504pt.
-<imagens/figure18.jpg, id=219, 362.85562pt x 580.41844pt>
+<imagens/figure18.jpg, id=217, 362.85562pt x 580.41844pt>
 File: imagens/figure18.jpg Graphic file (type jpg)
 <use imagens/figure18.jpg>
 Package pdftex.def Info: imagens/figure18.jpg  used on input line 425.
 (pdftex.def)             Requested size: 182.09485pt x 291.28014pt.
  [17 <./imagens/figure17.jpg>]
-<imagens/figure19.jpg, id=227, 722.7pt x 328.22626pt>
+<imagens/figure19.jpg, id=225, 722.7pt x 328.22626pt>
 File: imagens/figure19.jpg Graphic file (type jpg)
 <use imagens/figure19.jpg>
 Package pdftex.def Info: imagens/figure19.jpg  used on input line 436.
@@ -907,31 +907,31 @@ m/m/n/10.95 ^^@ []\OT1/ztmcm/m/n/10.95 ) + \OML/ztmcm/m/it/10.95 w[] \OMS/ztmcm
 n/10.95 )
  []
 
-<imagens/figure20.jpg, id=234, 645.91313pt x 472.76625pt>
+<imagens/figure20.jpg, id=232, 645.91313pt x 472.76625pt>
 File: imagens/figure20.jpg Graphic file (type jpg)
 <use imagens/figure20.jpg>
 Package pdftex.def Info: imagens/figure20.jpg  used on input line 469.
 (pdftex.def)             Requested size: 455.24408pt x 333.20647pt.
 [19]
-<imagens/figure21.jpg, id=242, 581.92406pt x 473.51906pt>
+<imagens/figure21.jpg, id=240, 581.92406pt x 473.51906pt>
 File: imagens/figure21.jpg Graphic file (type jpg)
 <use imagens/figure21.jpg>
 Package pdftex.def Info: imagens/figure21.jpg  used on input line 479.
 (pdftex.def)             Requested size: 455.24408pt x 370.4416pt.
  [20 <./imagens/figure20.jpg>]
-<imagens/figure22.jpg, id=248, 758.08218pt x 569.12625pt>
+<imagens/figure22.jpg, id=246, 758.08218pt x 569.12625pt>
 File: imagens/figure22.jpg Graphic file (type jpg)
 <use imagens/figure22.jpg>
 Package pdftex.def Info: imagens/figure22.jpg  used on input line 489.
 (pdftex.def)             Requested size: 455.24408pt x 341.77365pt.
  [21 <./imagens/figure21.jpg>] [22 <./imagens/figure22.jpg>]
-<imagens/figure23.jpg, id=259, 756.57657pt x 572.1375pt>
+<imagens/figure23.jpg, id=257, 756.57657pt x 572.1375pt>
 File: imagens/figure23.jpg Graphic file (type jpg)
 <use imagens/figure23.jpg>
 Package pdftex.def Info: imagens/figure23.jpg  used on input line 510.
 (pdftex.def)             Requested size: 455.24408pt x 344.26291pt.
  [23 <./imagens/figure23.jpg>]
-<imagens/figure24.jpg, id=265, 1053.9375pt x 602.25pt>
+<imagens/figure24.jpg, id=263, 1053.9375pt x 602.25pt>
 File: imagens/figure24.jpg Graphic file (type jpg)
 <use imagens/figure24.jpg>
 Package pdftex.def Info: imagens/figure24.jpg  used on input line 525.
@@ -944,7 +944,7 @@ n/10.95 Frequ[]encia
  []
 
 [24 <./imagens/figure24.jpg>]
-<imagens/figure27.jpg, id=276, 1053.9375pt x 602.25pt>
+<imagens/figure27.jpg, id=274, 1053.9375pt x 602.25pt>
 File: imagens/figure27.jpg Graphic file (type jpg)
 <use imagens/figure27.jpg>
 Package pdftex.def Info: imagens/figure27.jpg  used on input line 543.
@@ -956,13 +956,13 @@ Overfull \hbox (6.425pt too wide) in paragraph at lines 551--552
  []
 
 [25 <./imagens/figure27.jpg>]
-<imagens/figure28.jpg, id=289, 1053.9375pt x 602.25pt>
+<imagens/figure28.jpg, id=287, 1053.9375pt x 602.25pt>
 File: imagens/figure28.jpg Graphic file (type jpg)
 <use imagens/figure28.jpg>
 Package pdftex.def Info: imagens/figure28.jpg  used on input line 559.
 (pdftex.def)             Requested size: 364.19664pt x 208.11649pt.
  [26 <./imagens/figure28.jpg>]
-<imagens/figure25.jpg, id=299, 675.27281pt x 497.60907pt>
+<imagens/figure25.jpg, id=297, 675.27281pt x 497.60907pt>
 File: imagens/figure25.jpg Graphic file (type jpg)
 <use imagens/figure25.jpg>
 Package pdftex.def Info: imagens/figure25.jpg  used on input line 580.
@@ -982,7 +982,7 @@ Overfull \hbox (8.46756pt too wide) in paragraph at lines 586--587
 .95 , \OT1/ptm/b/n/10.95 Frequ[]encia
  []
 
-<imagens/figure31.jpg, id=300, 677.53125pt x 608.2725pt>
+<imagens/figure31.jpg, id=298, 677.53125pt x 608.2725pt>
 File: imagens/figure31.jpg Graphic file (type jpg)
 <use imagens/figure31.jpg>
 Package pdftex.def Info: imagens/figure31.jpg  used on input line 591.
@@ -995,13 +995,13 @@ cor ver-me-lha) ser[]a ne-cess[]ario a implementa[][]ao
  []
 
 [28 <./imagens/figure31.jpg>]
-<imagens/figure26.jpg, id=313, 1053.9375pt x 602.25pt>
+<imagens/figure26.jpg, id=311, 1053.9375pt x 602.25pt>
 File: imagens/figure26.jpg Graphic file (type jpg)
 <use imagens/figure26.jpg>
 Package pdftex.def Info: imagens/figure26.jpg  used on input line 607.
 (pdftex.def)             Requested size: 455.24408pt x 260.13872pt.
  [29 <./imagens/figure26.jpg>]
-<imagens/figure29.jpg, id=322, 1053.9375pt x 602.25pt>
+<imagens/figure29.jpg, id=320, 1053.9375pt x 602.25pt>
 File: imagens/figure29.jpg Graphic file (type jpg)
 <use imagens/figure29.jpg>
 Package pdftex.def Info: imagens/figure29.jpg  used on input line 635.
@@ -1012,19 +1012,19 @@ Overfull \hbox (7.7388pt too wide) in paragraph at lines 658--659
  ou-tros que per-mi-tam au-men-tar as pontua[][]oes
  []
 
-<imagens/figure30.jpg, id=331, 1053.9375pt x 602.25pt>
+<imagens/figure30.jpg, id=329, 1053.9375pt x 602.25pt>
 File: imagens/figure30.jpg Graphic file (type jpg)
 <use imagens/figure30.jpg>
 Package pdftex.def Info: imagens/figure30.jpg  used on input line 663.
 (pdftex.def)             Requested size: 455.24408pt x 260.13872pt.
 [31] [32 <./imagens/figure30.jpg>] [33] [34]
-<imagens/figure38.jpg, id=358, 1231.218pt x 812.49pt>
+<imagens/figure38.jpg, id=356, 1231.218pt x 812.49pt>
 File: imagens/figure38.jpg Graphic file (type jpg)
 <use imagens/figure38.jpg>
 Package pdftex.def Info: imagens/figure38.jpg  used on input line 735.
 (pdftex.def)             Requested size: 455.24408pt x 300.41823pt.
  [35]
-<imagens/figure39.jpg, id=368, 1517.451pt x 913.668pt>
+<imagens/figure39.jpg, id=366, 1517.451pt x 913.668pt>
 File: imagens/figure39.jpg Graphic file (type jpg)
 <use imagens/figure39.jpg>
 Package pdftex.def Info: imagens/figure39.jpg  used on input line 743.
@@ -1037,36 +1037,36 @@ Na classifica[][]ao
  []
 
 [37]
-<imagens/figure32.jpg, id=383, 1195.083pt x 639.699pt>
+<imagens/figure32.jpg, id=381, 1195.083pt x 639.699pt>
 File: imagens/figure32.jpg Graphic file (type jpg)
 <use imagens/figure32.jpg>
 Package pdftex.def Info: imagens/figure32.jpg  used on input line 778.
 (pdftex.def)             Requested size: 455.24408pt x 243.68356pt.
  [38] [39 <./imagens/figure32.jpg>]
-<imagens/figure33.jpg, id=400, 1286.844pt x 631.158pt>
+<imagens/figure33.jpg, id=398, 1286.844pt x 631.158pt>
 File: imagens/figure33.jpg Graphic file (type jpg)
 <use imagens/figure33.jpg>
 Package pdftex.def Info: imagens/figure33.jpg  used on input line 800.
 (pdftex.def)             Requested size: 455.24408pt x 223.28738pt.
  [40 <./imagens/figure33.jpg>]
-<imagens/figure34.jpg, id=411, 1303.926pt x 730.146pt>
+<imagens/figure34.jpg, id=409, 1303.926pt x 730.146pt>
 File: imagens/figure34.jpg Graphic file (type jpg)
 <use imagens/figure34.jpg>
 Package pdftex.def Info: imagens/figure34.jpg  used on input line 823.
 (pdftex.def)             Requested size: 409.71689pt x 229.41786pt.
-<imagens/figure35.jpg, id=412, 1228.371pt x 741.096pt>
+<imagens/figure35.jpg, id=410, 1228.371pt x 741.096pt>
 File: imagens/figure35.jpg Graphic file (type jpg)
 <use imagens/figure35.jpg>
 Package pdftex.def Info: imagens/figure35.jpg  used on input line 842.
 (pdftex.def)             Requested size: 455.24408pt x 274.65355pt.
  [41 <./imagens/figure34.jpg>]
-<imagens/figure36.jpg, id=424, 1333.929pt x 773.508pt>
+<imagens/figure36.jpg, id=422, 1333.929pt x 773.508pt>
 File: imagens/figure36.jpg Graphic file (type jpg)
 <use imagens/figure36.jpg>
 Package pdftex.def Info: imagens/figure36.jpg  used on input line 860.
 (pdftex.def)             Requested size: 455.24408pt x 263.98067pt.
  [42 <./imagens/figure35.jpg>]
-<imagens/figure37.jpg, id=435, 1246.767pt x 692.697pt>
+<imagens/figure37.jpg, id=433, 1246.767pt x 692.697pt>
 File: imagens/figure37.jpg Graphic file (type jpg)
 <use imagens/figure37.jpg>
 Package pdftex.def Info: imagens/figure37.jpg  used on input line 878.
@@ -1084,23 +1084,22 @@ Package rerunfilecheck Info: File `artigo.out' has not changed.
 (rerunfilecheck)             Checksum: 33456B5205E1A73A63A83FDC72F9F503;3577.
  ) 
 Here is how much of TeX's memory you used:
- 17850 strings out of 474116
- 291050 string characters out of 5747717
+ 17847 strings out of 474116
+ 291017 string characters out of 5747717
  1951190 words of memory out of 5000000
- 39712 multiletter control sequences out of 15000+600000
- 590739 words of font info for 99 fonts, out of 8000000 for 9000
+ 39710 multiletter control sequences out of 15000+600000
+ 590571 words of font info for 98 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  110i,12n,107p,1134b,565s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texl
 ive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2024/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb><c:/texlive/2024/texmf-dis
-t/fonts/type1/urw/times/utmb8a.pfb><c:/texlive/2024/texmf-dist/fonts/type1/urw/
-times/utmbi8a.pfb><c:/texlive/2024/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
-<c:/texlive/2024/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on artigo.pdf (46 pages, 12765815 bytes).
+texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c:/texlive/2024/texmf-dist/fonts/t
+ype1/urw/times/utmbi8a.pfb><c:/texlive/2024/texmf-dist/fonts/type1/urw/times/ut
+mr8a.pfb><c:/texlive/2024/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on artigo.pdf (46 pages, 12753764 bytes).
 PDF statistics:
- 544 PDF objects out of 1000 (max. 8388607)
- 438 compressed objects within 5 object streams
+ 538 PDF objects out of 1000 (max. 8388607)
+ 434 compressed objects within 5 object streams
  204 named destinations out of 1000 (max. 500000)
  316 words of extra memory for PDF output out of 10000 (max. 10000000)
 
